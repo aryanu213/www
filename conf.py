@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+An Amazing Project
 
 from __future__ import unicode_literals
 import time
@@ -52,7 +52,6 @@ BLOG_DESCRIPTION = "Personal website"  # (translatable)
 # hi        Hindi
 # hr        Croatian
 # hu        Hungarian
-# id        Indonesian
 # it        Italian
 # ja        Japanese [NOT jp]
 # ko        Korean
@@ -80,7 +79,7 @@ BLOG_DESCRIPTION = "Personal website"  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "hi"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
